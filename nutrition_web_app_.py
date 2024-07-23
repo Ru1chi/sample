@@ -14,13 +14,13 @@ import numpy as np
 
 # Function to load recipe data from an Excel file
 def load_recipe_data():
-    return pd.read_excel(r'C:\Users\sr322\Downloads\recipees.xlsx')
+    return pd.read_excel(r'recipees.xlsx')
 
 # Function to load model and scaler
 def load_model():
-    with open(r'C:\Users\sr322\Downloads\kmeans_model11.sav', 'rb') as model_file:
+    with open(r'kmeans_model11.sav', 'rb') as model_file:
         model = pickle.load(model_file)
-    with open(r'C:\Users\sr322\Downloads\scaler_model11.sav', 'rb') as scaler_file:
+    with open(r'scaler_model11.sav', 'rb') as scaler_file:
         scaler = pickle.load(scaler_file)
     return model, scaler
 
