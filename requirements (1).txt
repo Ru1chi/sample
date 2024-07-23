@@ -1,6 +1,7 @@
-scikit-learn==1.2.2
-streamlit
-pandas
 openpyxl
 
+streamlit==1.22.0
+scikit-learn==1.5.0
+pandas==2.0.3
+numpy==1.24.4
 
