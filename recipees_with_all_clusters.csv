@@ -1,0 +1,101 @@
+recipe_name,ingredients,calories,protein,carbs,fat,price($),cleaned_ingredients,PCA1,PCA2,KMeans_Cluster,Agglomerative_Cluster,Cluster_Label
+Caesar Salad,"Romaine Lettuce, Croutons, Parmesan",180,7,8,12,4.5,romaine lettuce crouton parmesan,-0.07244814263659016,0.0729884179499364,1,0,1
+Margarita Pizza,"Dough, Tomato Sauce, Mozzarella",300,15,40,10,8.0,dough tomato sauce mozzarella,-0.2946208038682963,-0.4238400162033747,0,2,0
+Vegetable Lasagna,"Zucchini, Tomato Sauce, Ricotta",350,20,45,15,6.5,zucchini tomato sauce ricotta,-0.21573818876754017,-0.2870348962113781,0,2,0
+BBQ Chicken Wings,"Chicken, BBQ Sauce, Spices",400,25,10,20,9.0,chicken bbq sauce spice,-0.17176605223487224,-0.0788915991152647,0,2,1
+Fruit Smoothie,"Banana, Strawberry, Yogurt",150,4,30,2,3.0,banana strawberry yogurt,0.1374961969385368,-0.01974048425890302,1,0,1
+Fish Tacos,"Fish, Tortilla, Cabbage",300,20,25,10,7.5,fish tortilla cabbage,0.021147912739135962,0.07440006431382144,1,0,1
+Pumpkin Soup,"Pumpkin, Onion, Cream",200,5,20,10,4.0,pumpkin onion cream,0.04369783212453136,-0.049639650885276505,1,0,1
+Chocolate Brownie,"Flour, Cocoa, Sugar",400,5,60,20,2.5,flour cocoa sugar,0.6790146830874938,-0.1967154465596683,2,1,2
+Chicken Alfredo,"Chicken, Pasta, Alfredo Sauce",450,30,40,20,10.0,chicken pasta alfredo sauce,-0.22609731470338978,-0.14224864626832662,0,2,0
+Greek Salad,"Cucumber, Tomato, Feta Cheese",200,5,10,15,5.0,cucumber tomato feta cheese,-0.14766314113827914,-0.04570591923042301,0,2,1
+Egg Fried Rice,"Egg, Rice, Soy Sauce",300,10,50,10,6.0,egg rice soy sauce,-0.12493937397679278,-0.2649339143579973,0,2,0
+Baked Chicken,"Chicken, Olive Oil, Herbs",350,30,5,20,8.0,chicken olive oil herb,-0.04456312356661352,0.15428391714957587,1,0,1
+Beef Tacos,"Beef, Tortilla, Lettuce",400,20,25,20,7.0,beef tortilla lettuce,-0.08140022165157758,0.23206342201683525,1,0,1
+Tomato Soup,"Tomato, Basil, Cream",150,3,20,5,3.5,tomato basil cream,-0.13912046451335366,-0.15488501569727353,0,2,0
+Granola Bar,"Oats, Honey, Nuts",250,6,40,10,1.5,oat honey nut,0.10038231134687013,0.043526615729711324,1,0,1
+Pesto Pasta,"Pasta, Pesto Sauce, Parmesan",350,12,45,15,7.5,pasta pesto sauce parmesan,-0.18971753193968915,-0.2577296461101157,0,2,0
+Stuffed Peppers,"Bell Pepper, Ground Beef, Rice",300,20,30,10,6.0,bell pepper ground beef rice,-0.08460802483426923,-0.10512521954060053,0,2,1
+Veggie Burger,"Veggie Patty, Bun, Lettuce",250,10,30,8,4.5,veggie patty bun lettuce,-0.026769945761441573,0.1815451000671122,1,0,1
+Mango Lassi,"Mango, Yogurt, Sugar",200,6,35,5,3.0,mango yogurt sugar,0.35445552116972034,-0.10037067704445694,2,1,2
+Chicken Quesadilla,"Chicken, Tortilla, Cheese",400,25,30,20,7.0,chicken tortilla cheese,-0.11366043451157394,0.23874177247612566,1,0,1
+Lentil Curry,"Lentils, Tomato, Onion",250,15,30,10,5.0,lentil tomato onion,-0.14211692069616808,-0.19089377226490353,0,2,0
+Beef Burger,"Beef Patty, Bun, Cheese",500,25,40,25,10.0,beef patty bun cheese,-0.028903187405733215,0.13940215399503417,1,0,1
+Shrimp Pasta,"Shrimp, Pasta, Garlic",350,25,45,15,8.5,shrimp pasta garlic,-0.030679871444511737,0.1165762612358033,1,0,1
+Chicken Soup,"Chicken, Carrot, Celery",150,10,15,5,3.5,chicken carrot celery,-0.07268823342262427,0.08365303539626191,1,0,1
+Blueberry Muffin,"Flour, Blueberries, Sugar",250,5,35,10,2.0,flour blueberry sugar,0.5896622320534948,-0.16676634853069894,2,1,2
+Veggie Pizza,"Dough, Tomato Sauce, Vegetables",300,10,45,10,6.5,dough tomato sauce vegetable,-0.269442741601989,-0.38678411531283907,0,2,0
+Chili Con Carne,"Beef, Beans, Chili Powder",350,20,30,15,7.0,beef bean chili powder,-0.0067188475495788625,-0.006243053313197115,1,0,1
+Banana Bread,"Flour, Banana, Sugar",300,6,50,12,3.0,flour banana sugar,0.6686227314090568,-0.1841825182031279,2,1,2
+Egg Salad,"Egg, Mayonnaise, Celery",200,8,5,15,2.5,egg mayonnaise celery,0.05389125126529461,0.03110655467279209,1,0,1
+Stuffed Zucchini,"Zucchini, Quinoa, Cheese",250,10,20,10,4.0,zucchini quinoa cheese,-0.030816041210994297,0.051153739234618245,1,0,1
+Tuna Salad,"Tuna, Lettuce, Mayonnaise",150,20,5,10,3.5,tuna lettuce mayonnaise,-0.028758360143094998,0.1638607124544099,1,0,1
+Carrot Soup,"Carrot, Ginger, Cream",100,2,15,5,2.0,carrot ginger cream,0.009389258542717457,0.011842250336617904,1,0,1
+Chicken Salad Sandwich,"Chicken, Bread, Lettuce",300,20,30,10,5.0,chicken bread lettuce,-0.1884265485937513,0.5500940691070692,1,0,1
+Pancake,"Flour, Milk, Egg",200,6,30,5,1.5,flour milk egg,0.3803309942009875,-0.06990265597186937,2,1,2
+Baked Salmon,"Salmon, Lemon, Dill",250,35,0,15,10.0,salmon lemon dill,0.022350378526858967,0.12464568740188493,1,0,1
+Cheese Omelette,"Egg, Cheese, Milk",250,20,2,20,3.0,egg cheese milk,0.07635547767936104,0.09421856097046423,1,0,1
+Veggie Wrap,"Wrap, Hummus, Vegetables",200,5,25,8,4.5,wrap hummus vegetable,0.019285264475879093,-0.030771648509925496,1,0,1
+Chicken Stir Fry,"Chicken, Bell Pepper, Soy Sauce",300,25,20,10,7.0,chicken bell pepper soy sauce,-0.26370439938324125,-0.22237168453162087,0,2,0
+Apple Pie,"Flour, Apple, Sugar",400,3,60,20,3.5,flour apple sugar,0.6766524844191261,-0.19045394751571046,2,1,2
+Chickpea Salad,"Chickpeas, Tomato, Cucumber",200,10,25,8,4.0,chickpea tomato cucumber,-0.13530927964535544,-0.12977089890739216,0,2,0
+Garlic Bread,"Bread, Garlic, Butter",250,5,30,15,2.5,bread garlic butter,-0.00970097199114092,0.5019211220268771,1,0,1
+Vegetable Curry,"Cauliflower, Potato, Tomato",300,8,40,10,5.5,cauliflower potato tomato,-0.10899575315717455,-0.1325692348823793,0,2,1
+Turkey Sandwich,"Turkey, Bread, Lettuce",150,15,20,5,2.8,turkey bread lettuce,-0.07129549390913341,0.4265516492767662,1,0,1
+Lentil Soup,"Lentils, Carrot, Celery",180,10,30,5,4.0,lentil carrot celery,0.005112360098017022,-0.007041842743474953,1,0,1
+Egg Omelette,"Egg, Cheese, Bell Pepper",200,15,5,15,2.0,egg cheese bell pepper,-0.05174855963237611,-0.010210530858052298,1,0,1
+Mushroom Risotto,"Rice, Mushroom, Parmesan",350,10,45,10,5.5,rice mushroom parmesan,-0.04674309025191841,-0.0990722338551102,0,2,1
+Baked Ziti,"Pasta, Tomato Sauce, Cheese",400,20,50,15,6.0,pasta tomato sauce cheese,-0.33417416949142476,-0.29309516859650125,0,2,0
+Chicken Fajitas,"Chicken, Bell Pepper, Onion",300,25,30,10,7.5,chicken bell pepper onion,-0.15216694949952683,-0.05438593108402413,0,2,1
+Shrimp Tacos,"Shrimp, Tortilla, Avocado",350,20,25,15,9.0,shrimp tortilla avocado,-0.002051871496841072,0.1798568073352127,1,0,1
+Spinach Smoothie,"Spinach, Banana, Almond Milk",150,4,30,3,1.2,spinach banana almond milk,0.15291734865540207,0.015820562501402433,1,0,1
+Avocado Toast,"Avocado, Bread, Lemon",250,6,30,15,3.5,avocado bread lemon,-0.03509311037029466,0.39538866840688025,1,0,1
+Pumpkin Pie,"Flour, Pumpkin, Sugar",300,5,40,15,4.0,flour pumpkin sugar,0.613130570347484,-0.17840831387233644,2,1,2
+Beef Stew,"Beef, Potato, Carrot",200,30,15,10,8.0,beef potato carrot,-0.021210729699189714,-0.0011331595696168716,1,0,1
+Spaghetti Bolognese,"Spaghetti, Ground Beef, Tomato Sauce",400,20,50,15,7.0,spaghetti ground beef tomato sauce,-0.21782376143349383,-0.25879111245434633,0,2,0
+Chicken Curry,"Chicken, Coconut Milk, Curry Powder",350,25,15,25,10.0,chicken coconut milk curry powder,0.010986121995919893,0.08106221061400454,1,0,1
+Vegetable Soup,"Carrot, Potato, Celery",80,2,15,1,2.5,carrot potato celery,0.006884440647912201,0.00037320638899932337,1,0,1
+Greek Yogurt Parfait,"Greek Yogurt, Honey, Berries",180,12,25,5,3.0,greek yogurt honey berry,0.09137457398124989,0.022363944882667117,1,0,1
+Tofu Stir Fry,"Tofu, Bell Pepper, Soy Sauce",180,12,10,10,6.0,tofu bell pepper soy sauce,-0.19936243720125552,-0.2717713161822136,0,2,0
+Quinoa Salad,"Quinoa, Tomato, Cucumber",120,4,22,3,4.5,quinoa tomato cucumber,-0.14419152090826523,-0.12904341904430086,0,2,0
+Chicken Sandwich,"Chicken, Bread, Lettuce",200,20,20,5,4.0,chicken bread lettuce,-0.1884265485937513,0.550094069107069,1,0,1
+Steak Salad,"Steak, Lettuce, Tomato",300,30,10,15,9.5,steak lettuce tomato,-0.18223125295732465,0.016682523487932394,1,2,1
+Cucumber Sandwich,"Cucumber, Bread, Cream Cheese",150,3,20,5,2.0,cucumber bread cream cheese,-0.07059883622175088,0.30160261976525365,1,0,1
+Apple Crisp,"Apple, Oats, Sugar",250,2,40,10,3.5,apple oat sugar,0.4281154704971121,-0.0972371397158425,2,1,2
+Grilled Cheese Sandwich,"Bread, Cheese, Butter",350,10,30,20,3.0,bread cheese butter,-0.042390319656994614,0.4976542422985949,1,0,1
+Chicken Tikka Masala,"Chicken, Tomato, Yogurt",400,30,20,20,8.5,chicken tomato yogurt,-0.18865542746150082,-0.08334577515548414,0,2,0
+Vegetable Stir Fry,"Carrot, Broccoli, Soy Sauce",100,3,20,2,3.0,carrot broccoli soy sauce,-0.15797382281655165,-0.254630474506169,0,2,0
+Salmon Burger,"Salmon, Bun, Lettuce",300,25,20,15,8.0,salmon bun lettuce,-0.03477599139237926,0.20780122150371444,1,0,1
+Eggplant Parmesan,"Eggplant, Tomato Sauce, Parmesan",350,15,30,20,5.5,eggplant tomato sauce parmesan,-0.2716331537209578,-0.3539814666142816,0,2,0
+Ham Sandwich,"Ham, Bread, Cheese",250,15,20,10,3.5,ham bread cheese,-0.03839043501549298,0.3594225087879057,1,0,1
+Fruit Salad,"Apple, Banana, Orange",100,1,25,0,2.0,apple banana orange,0.20439631394400468,-0.03277456125525048,1,0,1
+Oatmeal,"Oats, Milk, Honey",200,5,35,5,1.0,oat milk honey,0.14509225958360555,0.053215597798658906,1,0,1
+Beef Stroganoff,"Beef, Mushroom, Sour Cream",500,25,40,25,10.0,beef mushroom sour cream,-0.003534718031949454,0.019603557157665912,1,0,1
+Falafel Wrap,"Falafel, Wrap, Hummus",300,10,40,10,6.5,falafel wrap hummus,0.039671181984135696,0.00349630467100667,1,0,1
+Baked Beans,"Beans, Tomato Sauce, Onion",200,10,30,5,2.5,bean tomato sauce onion,-0.25599966172706323,-0.35348190035561905,0,2,0
+Lemon Chicken,"Chicken, Lemon, Garlic",250,25,5,15,8.0,chicken lemon garlic,-0.07266986122013482,0.2902746935692701,1,0,1
+Spinach Salad,"Spinach, Strawberry, Balsamic",150,5,20,5,4.0,spinach strawberry balsamic,0.061577957707349404,0.023411358480112787,1,0,1
+Chicken Nuggets,"Chicken, Breadcrumbs, Spices",300,20,20,15,4.0,chicken breadcrumb spice,-0.0665774514250962,0.08111137259860078,1,0,1
+Roast Beef Sandwich,"Beef, Bread, Mustard",350,30,25,10,7.0,beef bread mustard,-0.03389052227217947,0.2816463783933895,1,0,1
+Cheese Pizza,"Dough, Tomato Sauce, Mozzarella",350,15,40,15,6.0,dough tomato sauce mozzarella,-0.2946208038682964,-0.4238400162033747,0,2,0
+Veggie Burrito,"Wrap, Beans, Rice",300,10,50,10,5.0,wrap bean rice,-0.0012831450483838294,-0.06935321735818635,1,0,1
+Roast Chicken,"Chicken, Herbs, Lemon",400,30,5,25,10.0,chicken herb lemon,-0.0710271950833462,0.20020750282215677,1,0,1
+Tuna Pasta,"Tuna, Pasta, Peas",350,25,45,10,7.5,tuna pasta pea,-0.029546347460726128,-0.03713878021464798,1,0,1
+Tomato Basil Pasta,"Pasta, Tomato, Basil",300,10,50,10,6.0,pasta tomato basil,-0.1911797926869401,-0.22264413611954223,0,2,0
+Cauliflower Rice,"Cauliflower, Garlic, Olive Oil",100,2,10,5,3.5,cauliflower garlic olive oil,0.025751203484823237,0.151269854264685,1,0,1
+Chicken Parmesan,"Chicken, Tomato Sauce, Parmesan",400,30,20,20,9.0,chicken tomato sauce parmesan,-0.39170646277684357,-0.3118918945816476,0,2,0
+Vegetable Quiche,"Egg, Spinach, Cheese",250,10,20,15,4.5,egg spinach cheese,0.04147082573863766,0.08972998794840668,1,0,1
+Garlic Shrimp,"Shrimp, Garlic, Butter",200,20,5,10,6.5,shrimp garlic butter,0.027068313365451686,0.2995910982924721,1,0,1
+Cinnamon Roll,"Flour, Cinnamon, Sugar",350,5,60,15,2.5,flour cinnamon sugar,0.5896622320534949,-0.16676634853069894,2,1,2
+Vegetable Paella,"Rice, Bell Pepper, Peas",300,8,50,10,7.0,rice bell pepper pea,-0.05658107396479982,-0.10828345383274143,0,2,1
+Beet Salad,"Beetroot, Goat Cheese, Walnut",200,8,15,10,4.0,beetroot goat cheese walnut,0.009331893528440471,0.07919607388864129,1,0,1
+Lamb Chops,"Lamb, Garlic, Rosemary",450,30,5,35,15.0,lamb garlic rosemary,0.03238509480045592,0.1158319137937848,1,0,1
+Chocolate Cake,"Flour, Cocoa, Sugar",400,5,50,20,3.5,flour cocoa sugar,0.6790146830874937,-0.19671544655966797,2,1,2
+Avocado Salad,"Avocado, Lettuce, Tomato",250,5,15,20,5.0,avocado lettuce tomato,-0.20182479868542477,0.08180619223679007,1,2,1
+Beef Stir Fry,"Beef, Broccoli, Soy Sauce",350,25,20,15,7.0,beef broccoli soy sauce,-0.17547838589257547,-0.2451894884634715,0,2,0
+Vegetable Korma,"Cauliflower, Peas, Coconut Milk",300,5,35,15,6.5,cauliflower pea coconut milk,0.06863077524398487,0.018757817682209868,1,0,1
+Mango Sorbet,"Mango, Sugar, Water",150,1,35,0,3.0,mango sugar water,0.33829953761149606,-0.08577269433619626,2,1,1
+Peanut Butter Sandwich,"Peanut Butter, Bread, Honey",300,10,30,15,2.5,peanut butter bread honey,0.020632397736234702,0.3653031931348126,1,0,1
+Tofu Salad,"Tofu, Lettuce, Tomato",200,10,10,10,4.0,tofu lettuce tomato,-0.20864200184038892,-0.010840287002113386,0,2,1
+Grilled Shrimp,"Shrimp, Olive Oil, Lemon",200,20,0,10,6.0,shrimp olive oil lemon,0.02319762424258094,0.1892038998198843,1,0,1
+Fruit Tart,"Flour, Custard, Berries",300,5,40,15,4.5,flour custard berry,0.3074359137498558,-0.06994336895226795,2,1,1
