@@ -10,7 +10,7 @@ import pickle
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:/Users\sr322/Downloads/recipees_with_all_clusters.csv")
+    return pd.read_csv("recipees_with_all_clusters.csv")
 
 # Function to categorize recipes based on dietary preferences
 def categorize_recipe(ingredients, dietary_preference):
@@ -72,7 +72,7 @@ scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
 # Load SVM model
-with open('C:/Users/sr322/Downloads/svm_model.sav', 'rb') as f:
+with open('svm_model.sav', 'rb') as f:
     svm_model = pickle.load(f)
 
 # Predict clusters
